@@ -1,2 +1,4 @@
 # learn-linux
-Learn Linux/UNIX system administration with READMEs and code snippets
+Moved to https://github.com/coding-wiki/learn-linux
+
+This repository will be deleted soon.
